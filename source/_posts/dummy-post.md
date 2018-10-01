@@ -1,20 +1,23 @@
 ---
-title: '01 - Dummy Post'
-date: 2017-09-24
+title: 01 - Dummy Post
+date: 2017-09-24T00:00:00.000Z
 tags:
   - css
   - javascript
   - php
   - laravel
 image: sample.jpg
+comments: true
 ---
+Paele
+
 ## Heading 2
 
 ### Heading 3
 
 **Bold Text**
 
-*Italic Text*
+_Italic Text_
 
 This is [an example](http://example.com/ "Title") inline link.
 
@@ -24,25 +27,25 @@ Image - Jigsaw logo
 
 ![Jigsaw logo](https://cloud.githubusercontent.com/assets/357312/25055001/5603687e-212e-11e7-8fad-0b33dbf7fb71.png)
 
-- Top-level item 1
-    - Nested item
-    - Nested item
-- Top-level item 2
-    - Nested item
-    - Nested item
-- Top-level item 3
-    - Nested item
-    - Nested item
+* Top-level item 1
+  * Nested item
+  * Nested item
+* Top-level item 2
+  * Nested item
+  * Nested item
+* Top-level item 3
+  * Nested item
+  * Nested item
 
 1. Top-level item 1
-    1. Nested item
-    2. Nested item
+   1. Nested item
+   2. Nested item
 2. Top-level item 2
-    1. Nested item
-    2. Nested item
+   1. Nested item
+   2. Nested item
 3. Top-level item 3
-    1. Nested item
-    2. Nested item
+   1. Nested item
+   2. Nested item
 
 Term
 : Description of the term
